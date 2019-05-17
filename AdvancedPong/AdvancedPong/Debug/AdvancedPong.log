@@ -1,0 +1,20 @@
+﻿  Ball.cpp
+  BecomeBomb.cpp
+  Board.cpp
+  Bomb.cpp
+  Bricks.cpp
+  game.cpp
+  KeyboardManager.cpp
+  main.cpp
+c:\users\yonatan\onedrive\שולחן העבודה\advancedpong\advancedpong\advancedpong\main.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PcBoard.cpp
+  point.cpp
+  Regular.cpp
+  screen.cpp
+  State.cpp
+  UserBoard.cpp
+  utils.cpp
+  Generating Code...
+c:\users\yonatan\onedrive\שולחן העבודה\advancedpong\advancedpong\advancedpong\game.cpp(339): warning C4172: returning address of local variable or temporary: temp
+c:\users\yonatan\onedrive\שולחן העבודה\advancedpong\advancedpong\advancedpong\ball.cpp(316): warning C4715: 'Ball::checkforbricks': not all control paths return a value
+  AdvancedPong.vcxproj -> C:\Users\yonatan\OneDrive\שולחן העבודה\AdvancedPong\AdvancedPong\Debug\AdvancedPong.exe
